@@ -1,10 +1,8 @@
 [package]
-name = "snargbls"
+name = "hints"
 version = "0.0.1"
-authors = [ "thonk contributors" ]
+authors = [ "hints authors" ]
 description = "A library for computing weighted threshold signatures"
-homepage = "https://arkworks.rs"
-repository = "https://github.com/rsinha/thonk"
 keywords = ["cryptography", "finite-fields", "elliptic-curves", "pairing"]
 categories = ["cryptography"]
 include = ["Cargo.toml", "src", "README.md", "LICENSE-APACHE", "LICENSE-MIT"]
